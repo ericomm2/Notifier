@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notifier</string>
+    <string name="dummy_content">Sua mensagem\naparecerá aqui</string>
+</resources>
